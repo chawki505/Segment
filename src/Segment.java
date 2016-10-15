@@ -2,7 +2,9 @@
  * Created by chawki on 14/10/16.
  */
 public class Segment {
-
+/**
+ * Created by Bengueddach on 16/10/16.
+ */
     private Point point1 = new Point();
     private Point point2 = new Point();
 
